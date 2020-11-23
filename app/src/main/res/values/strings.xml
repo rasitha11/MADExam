@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExamTestApp</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+    <string name="main">Main</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="add">Add</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="movies">Movies</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="rate">Rate</string>
+    <string name="comments">Comments</string>
+    <string name="current_rating">Current Rating</string>
+    <string name="submit">Submit</string>
+</resources>
